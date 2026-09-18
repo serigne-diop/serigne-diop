@@ -68,5 +68,5 @@ Parcours Internet des Objets (IOM)
 
 ## Contact
 
-- LinkedIn : À compléter
-- Email : À compléter
+- LinkedIn : https://www.linkedin.com/in/serigne-bamba-diop-11767538b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- Email : sbdiop06@gmail.com
